@@ -120,5 +120,4 @@ go test ./...
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-
-[Insert License Information]
+TODO
